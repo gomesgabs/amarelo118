@@ -1,0 +1,14 @@
+1-
+From what I understand, Cs is the computer science
+2-
+the binary system is a 2-digit numbering system, an example of how it works:
+when we press the uppercase letter A on the keyboard, what is sent to the computer's processor is the binary code of value 65, that is, 01000001.
+3-
+Python 3.6.4 (v3.6.4:d48eceb, Dec 19 2017, 06:04:45) [MSC v.1900 32 bit (Intel)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> import random
+>>> print(random.randint(0,100))
+35
+>>> import random
+>>> print(random.randint(0,100))
+82
