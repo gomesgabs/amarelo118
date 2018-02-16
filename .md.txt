@@ -1,5 +1,6 @@
 1-
-From what I understand, Cs is the computer science
+Now the course itself ultimately is not about programming per se.That's indeed a tool that we'll use.It's really about this.And that's really what CS is, the field more generally.Whether you're starting hardware or graphics or theory or any numberof fields, artificial intelligence these days, machine learning and beyond,it's really just about solving problems.
+
 2-
 the binary system is a 2-digit numbering system, an example of how it works:
 when we press the uppercase letter A on the keyboard, what is sent to the computer's processor is the binary code of value 65, that is, 01000001.
